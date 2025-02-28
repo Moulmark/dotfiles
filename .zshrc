@@ -57,5 +57,4 @@ bindkey '^p' history-search-backward
 bindkey '^n' history-search-forward
 
 # Aliases
-alias ls='ls --color'
-alias la='ls -la --color'
+alias ls='lsd'
